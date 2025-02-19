@@ -6,10 +6,12 @@
     "start": "node app.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Jeyabal",
   "license": "ISC",
-  "description": "",
+  "description": "Rule Engine logic for the D&D Microservices",
   "dependencies": {
-    "express": "^4.21.2"
+    "express": "^4.21.2",
+    "swagger-jsdoc": "^6.2.8",
+    "swagger-ui-express": "^5.0.1"
   }
 }
